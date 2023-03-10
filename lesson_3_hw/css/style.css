@@ -1,0 +1,41 @@
+@import url("reset.css");
+
+* {
+   color: red;
+}
+
+div {
+   color: blue; 
+}
+
+a {
+   color: cadetblue;
+}
+
+.help_ukraine > h2 {
+   color: chartreuse;
+}
+h2.chat {
+   color: chocolate;
+}
+.chat_explanation_text,
+.chat_list {
+   color: darkgoldenrod;
+}
+
+.chat_list_li li {
+   color: darkmagenta;
+}
+
+.chat_how_use_list * {
+   color: darkseagreen;
+}
+.chat_explanation_text ~ p {
+   color: deeppink;
+}
+.intresting_chat + p {
+   color: dodgerblue;
+}
+.chat_explanation_list > li {
+   color: green;
+}
