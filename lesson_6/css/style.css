@@ -1,0 +1,144 @@
+/*       RESET       */
+@import url("reset.css");
+
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300;700&display=swap');
+body {
+   font-family: "Poppins";
+}
+header,
+main {
+   width: 1270px;
+   margin: 0 auto;
+}
+[class*="_title"] {
+   font-weight: 700;
+   font-size: 25px;
+   line-height: 40px;
+   color: #212529;
+   width: 605px;
+   margin: 0 0 40px 0;
+}
+.block_one_text,
+.block_two_text,
+.block_three,
+.block_four_text,
+.block_five_text {
+   width: 816px;
+   margin: 0 auto 80px;
+}
+.block_one_text p {
+font-weight: 300;
+font-size: 14px;
+line-height: 25px;
+color: #6C757D;
+text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+margin: 0 0 34px 0;
+}
+.block_image_one{
+   padding: 10px;
+}
+.block_two_text p {
+   font-weight: 300;
+font-size: 14px;
+line-height: 25px;
+color: #6C757D;
+margin: 0 0 34px 0;
+}
+.block_two_image,
+.block_five_image {
+   font-size: 0;
+}
+.block_two_image_1 {
+   margin-right: 30px;
+}
+.block_image_one,
+.block_two_image {
+   margin: 0 0 80px 0;
+}
+.block_three p {
+   font-weight: 300;
+font-size: 14px;
+line-height: 25px;
+color: #6C757D;
+margin: 0 0 100px 0;
+}
+.image_full {
+   background-color: aquamarine;
+   display: block;
+   font-size: 0;
+   width: 100%;
+}
+.block_four_text p {
+   font-weight: 300;
+font-size: 14px;
+line-height: 25px;
+color: #6C757D;
+margin: 0 0 34px 0;
+}
+.block_four_text,
+.block_five_title,
+.block_five_image,
+.image_full {
+   margin: 0 auto 100px ;
+}
+.block_five_text p {
+   font-weight: 300;
+font-size: 14px;
+line-height: 25px;
+color: #6C757D;
+margin: 0 0 34px 0;
+}
+footer {
+   border-top: 5px dashed #212529;
+}
+.wow_class {
+   width: 900px;
+   margin: 0 auto 100px;
+}
+.wow_class_title {
+   display: block;
+   font-weight: 700;
+   font-size: 30px;
+   margin: 0 auto;
+}
+.block_1 {
+   border: 5px solid yellowgreen;
+   margin: 0 0 20px 0;
+}
+.block_2 {
+   outline: 10px solid blue;
+   margin: 0 0 50px 0;
+}
+.span_1 {
+   outline: 10px solid blue;
+   margin: 0 0 100px ;
+} 
+.block_3 {
+   background-color: yellow;
+   border-radius: 80% 20% 90% 10% / 54% 13% 87% 46% ;
+   margin: 0 0 50px 0;
+}
+.image___1 {
+   border-radius: 50%;
+   box-shadow: 3px 10px 7px 3px blueviolet;
+}
+.block_4 {
+   background-color: crimson;
+   box-shadow: 3px 10px 7px 3px blueviolet;
+   width: 300px;
+   margin: 0 0 50px 0;
+}
+.block_5 {
+   background-color: cyan;
+   box-shadow: inset 3px 10px 7px 3px blueviolet;
+}
+.block_6 {
+   background-color: darkgoldenrod;
+   width: 300px;
+   opacity: 0.4;
+}
+
+.block_7 {
+   width: 300px;
+   visibility: hidden;
+}
