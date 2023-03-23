@@ -1,0 +1,356 @@
+/*       RESET       */
+@import url("reset.css");
+
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300;700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap');
+/* .block_1 {
+   background-image: url("../img/house.png");
+   background-repeat: no-repeat;
+   background-size: cover;
+}
+.container_1 {
+   font-family: "Poppins";
+   max-width: 1550px;
+   margin: 0 auto;
+   padding: 330px 16px 100px 16px;
+}
+.container_1_date {
+   font-weight: 300;
+   font-size: 12px;
+   line-height: 20px;
+   color: #E5E5E5;
+   padding: 0px 0px 25px 0px;
+}
+.container_1_title {
+   font-weight: 700;
+   width: 605px;
+   font-size: 25px;
+   line-height: 40px;
+   color: #F8F9FA;
+   padding: 15px 0 0 0;
+}
+.container_1_text {
+   font-weight: 300;
+   font-size: 12px;
+   line-height: 20px;
+   color: #E5E5E5;
+   padding: 30px 0 100px 0;
+} */
+/* ----------PART 2------------ */
+
+/* .lists {
+   font-family: "Inter";
+   padding: 100px 0 150px 0;
+   max-width: 1120px;
+   margin: 0 auto;
+}
+.lists_title {
+   padding: 0 0 45px 0;
+}
+.lists_title {
+   font-weight: 400;
+   font-size: 26px;
+   line-height: 28px;
+   color: #212B36;
+}
+.block_2,
+.block_3,
+.block_4 {
+   display: inline-block;
+}
+.lists_block li{
+   font-weight: 700;
+   font-size: 16px;
+   line-height: 16px;
+   color: #637381;
+   margin: 0 0 20px 0;
+}
+
+.container_2_dot,
+.container_3_tick_blue,
+.container_4_tick_green {
+   margin: 0 77px 60px 0; 
+} */
+/* при падінг 0, воно стає приблизно на 10px нижче першого ствопця */
+/* .container_3_tick_blue,
+.container_4_tick_green {
+   padding: 0 0 0.1px 0;
+}
+.container_2_dot_list li {
+   line-height: 15px;
+   margin: 0 0 18px 0;
+   background: url("../img/icons/Ellipse\ 2744.png") 0 4px / 16px no-repeat;
+   min-height: 15px;
+   padding: 0 0 0 23px;
+}
+.container_3_tick_blue_list li {
+   background: url("../img/icons/Group.png") 0 center / 16px no-repeat;
+   padding: 0 0 0 23px;
+   min-height: 16px;
+}
+.container_4_tick_green_list li {
+   background: url("../img/icons/checkmark-circle\ \(2\)\ 1.png") 0 center / 16px no-repeat;
+   padding: 0 0 0 23px;
+   min-height: 16px;
+}
+.container_2_cross_list li {
+   background: url("../img/icons/cross-circle\ \(1\)\ 1.png") 0 center / 16px no-repeat;
+   padding: 0 0 0 23px;
+   min-height: 16px;
+}
+.container_3_vector  li{
+   background: url("../img/icons/Vector.png") 0 center / 16px no-repeat;
+   padding: 0 0 0 23px;
+   min-height: 16px;
+}
+.container_4_star_list li {
+   background: url("../img/icons/star\ \(1\)\ 1.png") 0 center / 16px no-repeat;
+   padding: 0 0 0 23px;
+   min-height: 16px;
+} */
+/* ---------PART 3 ---------- */
+
+
+/* .block_5 {
+   font-family: "Inter";
+   background-image: url("..//img/Rectangle\ 4924.png");
+   background-repeat: no-repeat;
+   background-size: cover;
+}
+.block_5_text {
+   padding: 145px 0 146px 135px;
+}
+.price {
+   font-weight: 600;
+   font-size: 18px;
+   line-height: 24px;
+   color: #3056D3;
+}
+.title {
+   font-weight: 700;
+   font-size: 36px;
+   line-height: 45px;
+   color: #212B36;
+   max-width: 470px;
+   padding: 13px 0 0 0;
+   margin: 0 0 28px 0;
+}
+.text {
+   font-weight: 500;
+   font-size: 16px;
+   line-height: 24px;
+   color: #637381;
+   max-width: 570px;
+   margin: 0 0 40px 0;
+
+}
+.link_store {
+   display: inline-block;
+   padding: 10px 30px;
+   font-weight: 600;
+   font-size: 16px;
+   line-height: 24px;
+   color: #FFFFFF;
+   max-width: 139px;
+   background: #3056D3;
+   border-radius: 30px;
+}
+.block_5 {
+   background:url("../img/speaker\ 1.png") 65% center / 15% no-repeat, url("../img/Vector\ 18.png")  100% 0px / 50% no-repeat, linear-gradient(90deg, rgba(48, 86, 211, 0.08) 16.13%, rgba(48, 86, 211, 0) 86.29%);
+}  */
+.container_1 {
+   background-image: url("../img/house.png");
+   background-repeat: no-repeat;
+   background-size: cover;
+   font-family: "Poppins";
+}
+.content_1 {
+   max-width: 86.1%;
+   margin: 0 auto;
+   padding: 300px 7px 100px 7px;
+}
+.date_1 {
+   font-weight: 300;
+   font-size: 12px;
+   line-height: 20px;
+   color: #E5E5E5;
+   margin-bottom: 15px;
+}
+.title_1 {
+   font-weight: 700;
+   font-size: 25px;
+   line-height: 40px;
+   color: #F8F9FA;
+   margin-bottom: 16px;
+}
+.text_1 {
+   font-weight: 300;
+   font-size: 12px;
+   line-height: 20px;
+   color: #E5E5E5;
+}
+
+
+.container_2 {
+   font-family: "Inter";
+   max-width: 87%;
+   margin: 0 auto;
+   padding: 100px 7px;
+}
+.title_2 {
+   font-weight: 400;
+   font-size: 26px;
+   line-height: 28px;
+   color: #212B36;
+   margin-bottom: 45px;
+}
+
+.container_2 {
+   /* outline: 1px solid #000; */
+}
+.list_1,
+.list_2,
+.list_3 {
+   display: inline-block;
+}
+.dot,
+.blue_tick,
+.green_tick,
+.cross,
+.vector,
+.star {
+   font-weight: 700;
+   font-size: 16px;
+   line-height: 16px;
+   color: #637381;
+}
+.dot {
+   line-height: 15px;
+}
+.dot {
+   margin-bottom: 60px;
+}
+.blue_tick,
+.green_tick {
+   margin: 0px 0 68px 0 ;
+}
+.list_1,
+.list_2 {
+   min-width: 35%;
+
+}
+.content_2 li:not(:last-child) {
+	margin-bottom: 14.5px;
+}
+.dot li:not(:last-child) {
+   margin-bottom: 18px;
+}
+
+
+/* Стилізація before */
+.dot li::before {
+   content: "";
+   display: inline-block;
+   background: url("../img/icons/Ellipse\ 2744.png") -3px 0px no-repeat;
+   width: 10px;
+   height: 10px;
+   margin-right: 10px;
+
+}
+.blue_tick li::before {
+   content: "";
+   display: inline-block;
+   background: url("../img/icons/Group.png") 0 0 no-repeat;
+   width: 20px;
+   height: 20px;
+   margin-right: 10px;
+}
+.green_tick li::before {
+   content: "";
+   display: inline-block;
+   background: url("../img/icons/checkmark-circle\ \(2\)\ 1.png") 0 0 no-repeat;
+   width: 20px;
+   height: 20px;
+   margin-right: 10px;
+}
+.cross li::before {
+   content: "";
+   display: inline-block;
+   background: url("../img/icons/cross-circle\ \(1\)\ 1.png") 0 center no-repeat;
+   width: 20px;
+   height: 20px;
+   margin-right: 10px;
+}
+.vector li::before {
+   content: "";
+   display: inline-block;
+   background: url("../img/icons/Vector.png") 0 center no-repeat;
+   width: 20px;
+   height: 20px;
+   margin-right: 10px;
+}
+.star li::before {
+   content: "";
+   display: inline-block;
+   background: url("../img/icons/star\ \(1\)\ 1.png") 0 center no-repeat;
+   width: 20px;
+   height: 20px;
+   margin-right: 10px;
+}
+/* ___________ */
+.container_3 {
+   background: url("../img/Rectangle\ 4924.png");
+   background-repeat: no-repeat;
+   background-size: cover;
+   font-family: "Inter";
+
+}
+.content_3 {
+   max-width: 86.1%;
+   margin: 0 auto;
+   background: url("../img/speaker\ 1.png" ) 75% 50% / 15%;
+   background-repeat: no-repeat;
+   padding-bottom: 146px;
+}
+.text_3 {
+   display: inline-block;
+   padding: 145px 0 0;
+   margin-bottom: 35px;
+}
+.price_3 {
+   font-weight: 600;
+   font-size: 18px;
+   line-height: 24px;
+   color: #3056D3;
+}
+.title_3 {
+   font-weight: 700;
+   font-size: 36px;
+   line-height: 45px;
+   color: #212B36;
+}
+.text_33 {
+   font-weight: 500;
+   font-size: 16px;
+   line-height: 24px;
+   color: #637381;
+
+}
+.link_3 {
+   display: block;
+   font-size: 16px;
+   line-height: 24px;
+   color: #FFFFFF;
+   background: #3056D3;
+   border-radius: 30px;
+   width: 139px;
+   height: 44px;
+   padding: 10px 30px;
+}
+.text_3 div:not(:last-child) {
+	margin-bottom: 15px;
+}
+
+.image_3 {
+   display: inline-block;
+}
